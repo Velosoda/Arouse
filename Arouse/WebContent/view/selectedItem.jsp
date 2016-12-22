@@ -8,7 +8,7 @@
 <title>Arouse - ${item}</title>
 </head>
 <body>
-  <header class="header">
+  <div class="header">
     <!--<img src="http://www.clker.com/cliparts/k/3/X/Y/y/U/red-cross-white-box-hi.png" width="5%" border="1px"/>-->  <p>Arouse</p>
     <br/>
     <a href="../Arouse/Home" class="NavBar">Home</a>
@@ -16,18 +16,18 @@
     <a href="../Arouse/MerchStore" class="NavBar">Merchandise</a>
     <a href="../Arouse/AboutUs" class="NavBar">About Us</a>
     <a href="../Arouse/ContactUs" class="NavBar">Contact Us</a>
-  </header>
+  </div>
   
-  <section class="content">
+  <div class="content">
 
-  </section>
+  </div>
  
-  <footer class="footer">
+  <div class="footer">
     copyright social
     <form action="../Arouse/MailingList" method="post">
       <input type="text" name="mailinglist"/>
       <input type="submit" value="subscribe"/>
     </form>
-  </footer>
-</body>
+  </div>
+  </body>
 </html>
