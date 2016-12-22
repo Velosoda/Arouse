@@ -1,0 +1,42 @@
+@CHARSET "ISO-8859-1";
+.header
+{
+  border: 1px solid black;
+  padding: 1%;
+  text-align: center;
+}
+.NavBar
+{
+  text-decoration: none;
+  color: black;
+  padding-right: 10%;
+  padding: 1%;
+  text-align: center;
+}
+.NavBar:hover 
+{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.content
+{
+  text-align: center;
+}
+.slideshow
+{
+  border: 1px solid black;
+}
+.footer
+{
+  border: 1px solid black;
+}
+.specialitem
+{
+  border: 1px solid black;
+  float: left;
+  width: 33%;
+}
+.specialitems
+{
+}
