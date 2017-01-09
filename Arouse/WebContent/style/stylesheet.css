@@ -37,5 +37,26 @@
   float: left;
   width: 33%;
 }
-
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+.button
+{
+	background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
+  font-family: Arial, sans-serif;
+  display: inline-block;
+  background: #10af90;
+  border: none;
+  border-bottom: 2px solid #0c806a;
+  color: #fff;
+  font-size: 17px;
+  padding: 15px 20px 13px;
+  cursor: pointer;
+  margin-top: 10px;
+  text-decoration: none;
+  -khtml-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+#mc_embed_signup
+{
+  background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;
+}
