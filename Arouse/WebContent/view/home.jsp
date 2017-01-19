@@ -9,7 +9,8 @@
 </head>
 <body>
   <div class="header">
-    <!--<img src="http://www.clker.com/cliparts/k/3/X/Y/y/U/red-cross-white-box-hi.png" width="5%" border="1px"/>-->  <p>Arouse</p>
+  	<a href="http://s49.photobucket.com/user/downonefindone/media/arouse.jpg.html" target="_blank"><img src="http://i49.photobucket.com/albums/f287/downonefindone/arouse.jpg" border="0" alt=" photo arouse.jpg"/></a>			   
+  	<p>Arouse</p>
     <br/>
     <a href="../Arouse/Home" class="NavBar">Home</a>
     <a href="../Arouse/ClothingStore" class="NavBar">Clothing</a>
@@ -17,7 +18,6 @@
     <a href="../Arouse/AboutUs" class="NavBar">About Us</a>
     <a href="../Arouse/ContactUs" class="NavBar">Contact Us</a>
   </div>
-  
   <div class="content">
     <div class="slideshow">
       SlideShow
